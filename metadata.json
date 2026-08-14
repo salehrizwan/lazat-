@@ -1,0 +1,6 @@
+{
+  "name": "Lazat Restaurant Gujrat",
+  "description": "Modern, professional restaurant website for Lazat Restaurant in Gujrat, Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
